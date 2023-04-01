@@ -4,13 +4,13 @@ This repository holds projects I have done over the last year. The projects are 
 
 ## Recent Projects this month:
 
-### Walmart Sales Forecasting
+## Projects
 
-### Detecting Between Written and Spoken Language (Orality and Literacy)
+- [Walmart Sales Forecasting](https://github.com/WallAlec/WalmartSalesForecasting)
+- [Detecting Between Written and Spoken Language (Orality and Literacy)](https://github.com/WallAlec/Orality_vs_Literacy_in_dialouge)
+- [Bike Sharing Kaggle](https://github.com/WallAlec/BikeSharingDataset)
+- [Wines Physicochemical Properties](https://github.com/WallAlec/WinePhysicochemicalProperties)
 
-### Bike Sharing Kaggle
-
-### Wines Physicochemical Properties
 
 ## Background
 
