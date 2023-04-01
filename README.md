@@ -4,7 +4,6 @@ This repository holds projects I have done over the last year. The projects are 
 
 ## Recent Projects this month:
 
-## Projects
 
 - [Walmart Sales Forecasting](https://github.com/WallAlec/WalmartSalesForecasting)
 - [Detecting Between Written and Spoken Language (Orality and Literacy)](https://github.com/WallAlec/Orality_vs_Literacy_in_dialouge)
