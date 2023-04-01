@@ -1,6 +1,6 @@
 # Personal Portfolio
 
-This repository holds projects I have done over the last year. The projects are currently categorized into different domains.
+This repository holds projects I have done over the last 2 months. The projects are currently categorized into different domains.
 
 ## Recent Projects this month:
 
