@@ -13,7 +13,7 @@ This repository holds projects I have done over the last 2 months. The projects 
 
 ## Background
 
-Hello, my name is Alec Wall. Welcome to my personal project portfolio! A bit about me: I am an upperclass student at UC Berkeley majoring in Data Science with an emphasis in computation. I started my undergraduate education interested in parallel computing and its effectiveness. Now, my interests have transitioned to the intersection of statistics and computation. I spend my time doing programming challenges and testing out different tools on Kaggle datasets.
+Hello, my name is Alec Wall. Welcome to my personal project portfolio! A bit about me: I am a Senior at UC Berkeley majoring in Data Science with an emphasis in computation. I started my undergraduate education interested in parallel computing and its effectiveness. Now, my interests have transitioned to the intersection of statistics and computation. Using SQL, Tableau, Excel, Python, Pandas and Scikit learn to make meaningful conclusions in my projects. I spend my time applying these tools programming challenges and testing out different tools on Kaggle datasets.
 
 In my free time, I am a keyboard enthusiast :)
 
